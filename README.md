@@ -1,6 +1,6 @@
 # Hi, I'm Hiral Rana 👋
 
-### Full-Stack Developer & Data Analytics Engineer
+### Data Analytics Engineer · Full-Stack Developer
 🎓 MS Data Analytics Engineering @ Northeastern University, Boston  
 💼 Ex-Data Analyst & Developer @ DataLoft  
 🌐 Building data-driven applications with Python, React, Node.js & SQL  
