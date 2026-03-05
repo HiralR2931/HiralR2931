@@ -103,16 +103,6 @@ React Dashboard (GitHub Pages)
 
 🔗 [Live Demo](https://hiralr2931.github.io/nft-theft-tracker) | [GitHub Repo](https://github.com/HiralR2931/nft-theft-tracker)
 
----
-
-## 📊 GitHub Stats
-
-![Hiral's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiralR2931&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiralR2931&layout=compact&theme=dark&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=HiralR2931&theme=dark&hide_border=true)
----
 
 ## 📫 Connect With Me
 
