@@ -12,8 +12,8 @@
 
 | Project | Data Focus | Tech | Status |
 |---|---|---|---|
-| 🔍 NFT Theft Tracker | Database Design · ETL · SQL Analytics | MySQL · Node.js · React · Railway | [Live Demo](https://hiralr2931.github.io/nft-theft-tracker) · [Code](https://github.com/HiralR2931/nft-theft-tracker) |
-| 🤖 LLM Workflow Agent | NLP · RAG · LLM Pipelines | Python · OpenAI · Flask · AWS | 🔄 In Progress — Spring 2026 |
+| 🔍 NFT Theft Tracker | Database Design · ETL · SQL Analytics | MySQL · Node.js · React · Railway | [✅ Completed — Spring 2026](https://hiralr2931.github.io/nft-theft-tracker) · [Code](https://github.com/HiralR2931/nft-theft-tracker) |
+| 🤖 DocuMind LLM Agent | NLP · RAG · LLM Pipelines | Python · Groq · Flask · React | [✅ Completed — Spring 2026](https://hiralr2931.github.io/LLM-Agent) · [Code](https://github.com/HiralR2931/LLM-Agent) |
 | 📊 Sales Analytics Dashboard | Predictive Modeling · EDA · KPI Analysis | Python · Pandas · Tableau · SQL | ✅ Completed — Fall 2025 |
 | 🖐️ Gesture Sensor Technology | Computer Vision · Feature Engineering | Python · OpenCV · Image Processing | ✅ Completed — Fall 2023 |
 | 🌫️ Air Pollution Monitor | Real-time IoT Data · Time-Series | C · C++ · Arduino · IoT | ✅ Completed — Spring 2022 |
