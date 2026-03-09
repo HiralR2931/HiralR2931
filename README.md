@@ -12,12 +12,14 @@
 
 | Project | Data Focus | Tech | Status |
 |---|---|---|---|
-| 🔍 NFT Theft Tracker | Database Design · ETL · SQL Analytics | MySQL · Node.js · React · Railway | [✅ Completed — Spring 2026](https://hiralr2931.github.io/nft-theft-tracker) · [Code](https://github.com/HiralR2931/nft-theft-tracker) |
-| 🤖 DocuMind LLM Agent | NLP · RAG · LLM Pipelines | Python · Groq · Flask · React | [✅ Completed — Spring 2026](https://hiralr2931.github.io/LLM-Agent) · [Code](https://github.com/HiralR2931/LLM-Agent) |
-| 📊 Sales Analytics Dashboard | Predictive Modeling · EDA · KPI Analysis | Python · Pandas · Tableau · SQL | ✅ Completed — Fall 2025 |
-| 🖐️ Gesture Sensor Technology | Computer Vision · Feature Engineering | Python · OpenCV · Image Processing | ✅ Completed — Fall 2023 |
-| 🌫️ Air Pollution Monitor | Real-time IoT Data · Time-Series | C · C++ · Arduino · IoT | ✅ Completed — Spring 2022 |
-| 🦽 Smart Wheelchair System | Sensor Data Pipelines · Health Analytics | Python · IoT · Java | ✅ Completed — Spring 2022 |
+| 🔍 NFT Theft Tracker | Database Design · ETL · SQL Analytics · REST API | MySQL · Node.js · React · Render | [Live Demo](https://hiralr2931.github.io/nft-theft-tracker) · [Code](https://github.com/HiralR2931/nft-theft-tracker) |
+| 🤖 DocuMind LLM Agent | NLP · RAG Pipelines · Prompt Engineering · LLM Orchestration | Python · Groq · Flask · React · Render | [Live Demo](https://hiralr2931.github.io/LLM-Agent) · [Code](https://github.com/HiralR2931/LLM-Agent) |
+| 📉 Customer Churn & Pricing Optimization | EDA · Feature Engineering · ML Classification · Model Evaluation · Pricing Analytics | Python · Scikit-learn · XGBoost · Random Forest · PyTorch · Streamlit | 🔄 In Progress — Spring 2026 |
+| 📊 Sales Analytics Dashboard | Predictive Modeling · EDA · KPI Analysis · Time-Series | Python · Pandas · Tableau · SQL | ✅ Completed — Fall 2025 |
+| 🖐️ Gesture Sensor Technology | Computer Vision · Feature Extraction · Image Classification | Python · OpenCV · Image Processing | ✅ Completed — Fall 2023 |
+| 🌫️ Air Pollution Monitor | Real-time IoT Data · Time-Series · Threshold Analytics | C · C++ · Arduino · IoT Sensors | ✅ Completed — Spring 2022 |
+| 🦽 Smart Wheelchair System | Sensor Data Pipelines · Health Analytics · Real-time Alerts | Python · IoT · Java | ✅ Completed — Spring 2022 |
+
 ---
 
 ## 🛠️ Tech Stack
