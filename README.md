@@ -83,7 +83,7 @@
 ## 🎓 Education
 
 🏫 **Northeastern University** — MS Data Analytics Engineering *(Expected May 2027)* | GPA: 3.5  
-📚 Coursework: Fundamentals of Data Analytics · Data Management for Analytics · Data Mining
+📚 Coursework: Fundamentals of Data Analytics · Data Management for Analytics · Data Mining.
 🏫 **MET Institute of Engineering** — BE Electronics & Telecommunication *(May 2022)* | GPA: 3.4
 
 ---
