@@ -12,7 +12,7 @@
 
 | Project | Data Focus | Tech | Status |
 |---|---|---|---|
-| 🔍 NFT Theft Tracker | Database Design · ETL · SQL Analytics · REST API | MySQL · Node.js · React · Render | [Live Demo](https://hiralr2931.github.io/nft-theft-tracker) · [Code](https://github.com/HiralR2931/nft-theft-tracker) |
+| 🔍 NFT Theft Tracker | Database Design · ETL · SQL Analytics · REST API | MySQL · Node.js · React · Railway | [Live Demo](https://hiralr2931.github.io/nft-theft-tracker) · [Code](https://github.com/HiralR2931/nft-theft-tracker) |
 | 🤖 DocuMind LLM Agent | NLP · RAG Pipelines · Prompt Engineering · LLM Orchestration | Python · Groq · Flask · React · Render | [Live Demo](https://hiralr2931.github.io/LLM-Agent) · [Code](https://github.com/HiralR2931/LLM-Agent) |
 | 📉 Customer Churn & Pricing Optimization | EDA · Feature Engineering · ML Classification · Model Evaluation · Pricing Analytics | Python · Scikit-learn · XGBoost · Random Forest · PyTorch · Streamlit | 🔄 In Progress — Spring 2026 |
 | 📊 Sales Analytics Dashboard | Predictive Modeling · EDA · KPI Analysis · Time-Series | Python · Pandas · Tableau · SQL | ✅ Completed — Fall 2025 |
@@ -83,7 +83,8 @@
 ## 🎓 Education
 
 🏫 **Northeastern University** — MS Data Analytics Engineering *(Expected May 2027)* | GPA: 3.5  
-📚 Coursework: Fundamentals of Data Analytics · Data Management for Analytics · Data Mining.
+📚 Coursework: Fundamentals of Data Analytics · Data Management for Analytics · Data Mining
+
 🏫 **MET Institute of Engineering** — BE Electronics & Telecommunication *(May 2022)* | GPA: 3.4
 
 ---
