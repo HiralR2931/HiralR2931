@@ -4,9 +4,12 @@
 
 I'm a graduate student at Northeastern University building a career in data science, machine learning, and analytics engineering. I'm actively seeking **co-op, internship, and remote opportunities in the US** where I can apply Python, SQL, statistics, ML, and data visualization to solve real problems and support data-driven decisions.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Live-2EA44F?style=flat&logo=githubpages&logoColor=white)](https://hiralr2931.github.io/hiral-portfolio-/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranahiral/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/HiralR2931)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hiralrana281999@gmail.com)
+
+🌐 **Explore my full portfolio:** [hiralr2931.github.io/hiral-portfolio-](https://hiralr2931.github.io/hiral-portfolio-/)
 
 ---
 
@@ -61,10 +64,10 @@ I'm a graduate student at Northeastern University building a career in data scie
 ---
 
 ## 💼 Experience
- 
+
 ### DataLoft — Data Analyst
 `Feb 2024 – Jun 2025`
- 
+
 - Built and maintained Python ETL pipelines using REST APIs, SQL, Pandas, NumPy, and PostgreSQL/MySQL to improve data availability and streamline reporting workflows.
 - Performed EDA and statistical analysis in Jupyter Notebook on operational datasets to identify trends, isolate bottlenecks, and support performance improvements.
 - Developed data quality checks and validation logic using SQL and Python to reduce inconsistencies and improve trust in analytics outputs.
@@ -79,18 +82,22 @@ I'm a graduate student at Northeastern University building a career in data scie
 - Improved confidence in dashboards by cross-checking outputs between SQL, Python, Tableau, and Power BI.
 - Partnered with cross-functional teams to refine reporting logic and ensure metrics were aligned with business goals.
 - Documented workflows and assumptions to improve reproducibility, maintainability, and handoff quality.
+
 ### Fortune Digi Marketing — Analytical Engineer
 `Feb 2023 – Nov 2023`
- 
+
 - Analyzed multi-platform campaign data using Python, SQL, and Excel, comparing segment-level performance across channels to uncover trends and identify the campaigns driving the strongest engagement and conversion signals.
 - Automated preprocessing and reporting with Pandas, NumPy, and Jupyter Notebook and built repeatable analytics workflows that reduced manual effort and improved consistency and speed across reporting cycles.
 - Designed and evaluated A/B tests and experimentation outputs, interpreting results to measure engagement changes and guide iteration on campaign strategy and targeting.
 - Built reporting assets in Tableau, Power BI, SQL, and Excel that presented trends, outliers, and KPI movement in decision-ready formats easy for non-technical marketing and product teams to act on.
 - Standardized and validated large, messy datasets with Python and SQL — checking completeness and consistency — to transform them into structured inputs and improve the accuracy, reliability, and comparability of analytics outputs.
 - Collaborated with marketing and product stakeholders to define metrics and align reporting with business objectives, documenting analysis steps and logic so recurring tasks could be reused and scaled.
+
 ---
 
 ## 🚀 Projects
+
+Full project details and live demos are on my [portfolio site](https://hiralr2931.github.io/hiral-portfolio-/).
 
 | Project | Focus | Stack |
 | --- | --- | --- |
@@ -114,6 +121,7 @@ Coursework: Fundamentals of Data Analytics, Data Management for Analytics, Data 
 
 ## 📫 Contact
 
+- **Portfolio:** [hiralr2931.github.io/hiral-portfolio-](https://hiralr2931.github.io/hiral-portfolio-/)
 - **LinkedIn:** [linkedin.com/in/ranahiral](https://linkedin.com/in/ranahiral/)
 - **GitHub:** [github.com/HiralR2931](https://github.com/HiralR2931)
 - **Email:** [hiralrana281999@gmail.com](mailto:hiralrana281999@gmail.com)
