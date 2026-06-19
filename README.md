@@ -97,8 +97,6 @@ I'm a graduate student at Northeastern University building a career in data scie
 
 ## 🚀 Projects
 
-Full project details and live demos are on my [portfolio site](https://hiralr2931.github.io/hiral-portfolio-/).
-
 | Project | Focus | Stack |
 | --- | --- | --- |
 | **DocuMind LLM Agent** | NLP, RAG pipelines, prompt engineering, LLM orchestration | Python, Groq, Flask, React |
